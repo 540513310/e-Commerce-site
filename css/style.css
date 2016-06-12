@@ -79,3 +79,52 @@ h1,h2,h3,h4,h5,h6,ul,li,img{
 	text-decoration: none;
 	display: inline;
 }
+
+.mt_c_top_left{
+	width:350px;
+	float: left;
+}
+
+.mt_c_top_left .ad{
+	width: 350px;
+	height: 190px;
+	border: solid 1px red;
+}
+
+.mt_c_top_right{
+	width: 190px;
+	float: left;
+}
+
+.m10{
+	margin-left: 10px;
+
+}
+
+.w180{
+	width: 180px;
+
+}
+
+.box3{
+	border: solid 1px #ccc;
+	margin-top: 5px;
+}
+.box3 h3{
+	background-color: #eee;
+	background-image: url(../images/bg01.png);
+	line-height: 32px;
+	font-size: 10pt;
+	text-indent: 5px;
+}
+
+.box3 ul{
+	list-style: none;
+
+}
+
+.box3 ul li{
+	line-height: 25px;
+	border-bottom: dotted 1px #ccc;
+	text-indent: 5px;
+}
